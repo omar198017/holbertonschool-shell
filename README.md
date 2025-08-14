@@ -15,6 +15,9 @@ ZZZzz /,`.-'`' -. ;-;;,_
      |,4- ) )-,_. ,\ ( `'-'
     '---''(_/--' `-'\_) Chino
 
+
+    
+
 ![Logo](https://www.muylinux.com/wp-content/uploads/2018/11/bash.png)
 
 
