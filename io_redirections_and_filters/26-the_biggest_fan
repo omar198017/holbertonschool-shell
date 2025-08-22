@@ -1,2 +1,2 @@
 #!/bin/bash
-awk -F'\t' '{print $1}' | sort | uniq -c | sort -nr | head -n 11 | awk '{print $2, $1}'
+tail -n +2 "$1" | cut -f1 | sort | uniq -c | sort -nr | head -n 11 < nasa_19950801.tsv
